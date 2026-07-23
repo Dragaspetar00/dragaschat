@@ -1,7 +1,7 @@
 <?php
-define('DB_HOST', '193.111.77.77:   ');
-define('DB_NAME', 'dragaschat');
-define('DB_USER', 'root');
+define('DB_HOST', ':   ');
+define('DB_NAME', '');
+define('DB_USER', '');
 define('DB_PASS', '');
 
 define('MAIL_FROM', 'dragaspetar0@gmail.com');
